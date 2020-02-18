@@ -1,10 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Doctoral researcher at University of Minho
+subtitle: Doctoral Researcher at University of Minho
+
 ---
 
-Currently working as Integrated Researcher at the <a href="https://www.uminho.pt/PT" target="_blank">University of Minho's</a> <a href="http://algoritmi.uminho.pt" target="_blank">Algoritmi Research Center</a>. 
+Member of KEG (Knowledge Engineering Group) at <a href="https://www.uminho.pt/PT" target="_blank">University of Minho's</a> <a href="http://algoritmi.uminho.pt" target="_blank">Algoritmi Research Center</a>. 
+Invited Assistant Professor, teaching Knowledge Discovery.
 
 ---
 
@@ -12,13 +14,8 @@ Currently working as Integrated Researcher at the <a href="https://www.uminho.pt
 
 <div class="main-explain-area jumbotron">
     <strong><i class="fa fa-book"></i> Research:</strong><br> 
-        Data Mining | Electronic Health Record | Multi-agent Systems | Interoperability | Business Intelligence | Knowledge Extraction | Decision Support Systems | CRISP-DM  <br><br><br>
-    <strong><i class="fa fa-database"></i> Databases:</strong><br> 
-        mySQL | Oracle | MongoDB | neo4j   <br><br><br>
-    <strong><i class="fa fa-code"></i> Languages:</strong><br> 
-        PHP | python | Javascript | .Net | Visual Basic | R   <br><br><br> 
-    <strong><i class="fa fa-slack"></i> Others:</strong><br> 
-        RapidMiner | Mirthconnect | Docker | Bootstrap | git | Joomla | WordPress <br>   
+        Data Mining | Electronic Health Record | Interoperability | Business Intelligence | Knowledge Extraction | Decision Support Systems  <br><br><br>
+
 </div> 
 
 ---
