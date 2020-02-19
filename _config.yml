@@ -22,6 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "index.html"
   Publications: "publications"
+  Teaching: "teaching"
 
   
   
