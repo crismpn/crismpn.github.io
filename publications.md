@@ -4,7 +4,7 @@ title: Publications
 image: "none"
 ---
 
-### Book Chapters
+### Book Chapter
 {% assign counter = 0 %}
 {% assign pub = "" %}
 {% for pub in site.data.publications.bookchaps %}
