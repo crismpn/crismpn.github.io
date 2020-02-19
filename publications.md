@@ -4,7 +4,7 @@ title: Publications
 
 ---
 
-### Book Chapter
+### Book Chapters
 {% assign counter = 0 %}
 {% assign pub = "" %}
 {% for pub in site.data.publications.bookchaps %}
