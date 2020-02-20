@@ -1,0 +1,7 @@
+class:
+
+  - name: "Knowledge Discovery"
+    course: "Integrated Master in Informatics"
+    institution: "University of Minho"
+    topics: "Knowledge Extraction | Data Mining | Weka | RapidMiner | R | Decision Support Systems | CRISP-DM"
+    url: "../class/dc"
