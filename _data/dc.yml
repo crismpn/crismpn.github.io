@@ -8,3 +8,12 @@ class:
     exercise: "../../data/dc/pl01/fe01.pdf"
     material: 
     topics: "Data Mining | CRISP-DM"
+    
+  - code: "PL02"
+    date: "20 Fev 2020"
+    title: "Indrodução ao Weka"
+    plan: "../../data/dc/pl02/pa02.pdf"
+    slides: "../../data/dc/pl02/pl02.pdf"
+    exercise: "../../data/dc/pl02/fe02.pdf"
+    material: 
+    topics: "Weka | Classificação"
