@@ -4,7 +4,7 @@ title: DC
 subtitle: Descoberta do Conhecimento
 ---
 
-<h3 style="text-align:center;">Administração e Exploração Avançada de Base de Dados</h3>
+<h3 style="text-align:center;">Descoberta do Conhecimento</h3>
 
 ---
 
