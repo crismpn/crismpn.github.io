@@ -4,17 +4,11 @@ title: DC
 subtitle: Descoberta do Conhecimento
 ---
 
----
-layout: default
-title: AEABD
-image: img/aebd.png
----
-
 <h3 style="text-align:center;">Administração e Exploração Avançada de Base de Dados</h3>
 
 ---
 
-{% for class in site.data.aeabd.class %}
+{% for class in site.data.dc.class %}
 
 <h4> <a href="" target="_blank">{{class.code}} - {{class.title}}</a></h4>   
 <i class="fa fa-calendar"></i> {{ class.date }} 
