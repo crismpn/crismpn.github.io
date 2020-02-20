@@ -2,9 +2,9 @@ class:
 
   - code: "PL01"
     date: "14 Fev 2020"
-    title: ""
-    plan: "../../data/aeabd/pl05/pa05.pdf"
+    title: "Data Mining e CRISP-DM"
+    plan: "../../data/dc/pl05/pa01.pdf"
     slides:
-    exercise: "../../data/aeabd/pl05/fe03.pdf"
+    exercise: "../../data/dc/pl05/fe01.pdf"
     material: 
-    topics: "SQL | Queries "
+    topics: "Data Mining | CRISP-DM"
