@@ -1,0 +1,10 @@
+class:
+
+  - code: "PL01"
+    date: "14 Fev 2020"
+    title: ""
+    plan: "../../data/aeabd/pl05/pa05.pdf"
+    slides:
+    exercise: "../../data/aeabd/pl05/fe03.pdf"
+    material: 
+    topics: "SQL | Queries "
