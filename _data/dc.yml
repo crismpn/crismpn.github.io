@@ -4,7 +4,7 @@ class:
     date: "14 Fev 2020"
     title: "Data Mining e CRISP-DM"
     plan: "../../data/dc/pl01/PAPL01.pdf"
-    slides: "../../data/dc/pl01/pl01.pdf"
+    slides: "../../data/dc/pl01/PL01.pdf"
     exercise: "../../data/dc/pl01/FE01.pdf"
     material: 
     topics: "Data Mining | CRISP-DM"
