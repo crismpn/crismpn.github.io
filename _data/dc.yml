@@ -17,3 +17,12 @@ class:
     exercise: "../../data/dc/pl02/fe02.pdf"
     material: 
     topics: "Weka | Classificação"
+    
+  - code: "PL03"
+    date: "28 Fev 2020"
+    title: "Explorar o Weka"
+    plan: "../../data/dc/pl02/pa03.pdf"
+    slides: "../../data/dc/pl02/pl03.pdf"
+    exercise: "../../data/dc/pl02/fe03.pdf"
+    material: 
+    topics: "Database | Datawarehouse | Dataset | Weka | Classificação"
