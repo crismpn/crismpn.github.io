@@ -23,6 +23,6 @@ class:
     title: "Explorar o Weka"
     plan: "../../data/dc/pl02/pa03.pdf"
     slides: "../../data/dc/pl02/pl03.pdf"
-    exercise: "../../data/dc/pl02/fe03.pdf"
+    exercise: "../../data/dc/pl03/fe03.pdf"
     material: 
     topics: "Database | Datawarehouse | Dataset | Weka | Classificação"
