@@ -24,5 +24,5 @@ class:
     plan: "../../data/dc/pl02/pa03.pdf"
     slides: "../../data/dc/pl02/pl03.pdf"
     exercise: "../../data/dc/pl03/fe03.pdf"
-    material: 
+    material: "../../data/dc/pl03/chapter2.pdf"
     topics: "Database | Datawarehouse | Dataset | Weka | Classificação"
