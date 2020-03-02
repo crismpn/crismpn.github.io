@@ -13,7 +13,6 @@ subtitle: Descoberta do Conhecimento
 <h4> <a href="" target="_blank">{{class.code}} - {{class.title}}</a></h4>   
 <i class="fa fa-calendar"></i> {{ class.date }} 
 <ul>
-    <li> <a href="{{ class.plan }}" target='_blank'> Planeamento da Aula </a></li>
     {% if class.slides %} 
         <li> <a href="{{ class.slides }}" target='_blank'> Slides </a> </li>
     {% endif %}
