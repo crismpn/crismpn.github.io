@@ -23,6 +23,9 @@ subtitle: Descoberta do Conhecimento
     {% if class.material %} 
         <li> <a href="{{ class.material }}" target='_blank'> Material de Apoio </a> </li>
     {% endif %}
+    {% if class.english %} 
+        <li> <a href="{{ class.english }}" target='_blank'> English Material </a> </li>
+    {% endif %}
 </ul>  
 <strong> tópicos: </strong> {{class.topics}} 
 
