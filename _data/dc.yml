@@ -27,3 +27,12 @@ class:
     material: "../../data/dc/pl03/chapter2.pdf"
     english: "../../data/dc/pl03/PL03_EN.rar"
     topics: "Database | Datawarehouse | Dataset | Weka | Classificação"
+    
+  - code: "PL03"
+    date: "28 Fev 2020"
+    title: "Explorar o Weka"
+    exercise: "../../data/dc/pl04/fe04pt.pdf"
+    material: "../../data/dc/pl04/heart-c.arff"
+    english: "../../data/dc/pl04/fe04en.pdf"
+    topics: "Weka | CRISP-DM"
+
