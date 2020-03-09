@@ -32,7 +32,7 @@ class:
     date: "06 Mar 2020"
     title: "Explorar o Weka"
     exercise: "../../data/dc/pl04/fe04pt.pdf"
-    material: "../../data/dc/pl04/heart.arff"
+    material: "../../data/dc/pl04/material.pdf"
     english: "../../data/dc/pl04/fe04e.pdf"
     topics: "Weka | CRISP-DM"
 
