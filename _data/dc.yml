@@ -36,3 +36,12 @@ class:
     english: "../../data/dc/pl04/fe04e.pdf"
     topics: "Weka | CRISP-DM"
 
+ - code: "PL05"
+    date: "13 Mar 2020"
+    title: "RapidMiner - Correlações"
+     slides: "../../data/dc/pl05/pl05.pdf"
+    exercise: "../../data/dc/pl05/fe05pt.pdf"
+    material: "../../data/dc/pl05/PL05_Material.rar"
+    english: "../../data/dc/pl04/PL05_Material_EN.rar"
+    topics: "RapidMiner | Correlações"
+
