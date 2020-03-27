@@ -53,7 +53,15 @@ class:
     material: "../../data/dc/pl06/PL06_Material.rar"
     english: "../../data/dc/pl06/PL06_Material_EN.rar"
     topics: "RapidMiner | Regras de Associação"
-   
+    
+  - code: "PLO7"
+    date: "27 Mar 2020"
+    title: "RapidMiner - k-Means Clustering"
+    exercise: "../../data/dc/pl07/fe07pt.pdf"
+    slides: "../../data/dc/pl07/pl07pt.pdf"
+    material: "../../data/dc/pl07/pl07.dataset.csv"
+    english: "../../data/dc/pl07/PL07_Material_EN.rar"
+    topics: "RapidMiner | Clustering | k-Means"
     
   
    
