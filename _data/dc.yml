@@ -69,7 +69,7 @@ class:
     exercise: "../../data/dc/pl08/fe08pt.pdf"
     slides: "../../data/dc/pl08/pl08pt.pdf"
     material: "../../data/dc/pl08/pl08.dataset.csv"
-    english: "../../data/dc/pl08/PL07_Material_EN.rar"
+    english: "../../data/dc/pl08/PL08_Material_EN.rar"
     topics: "RapidMiner | Regressão Linear"
     
   
