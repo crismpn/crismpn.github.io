@@ -62,6 +62,15 @@ class:
     material: "../../data/dc/pl07/pl07.dataset.csv"
     english: "../../data/dc/pl07/PL07_Material_EN.rar"
     topics: "RapidMiner | Clustering | k-Means"
+        
+  - code: "PL08"
+    date: "03 Abr 2020"
+    title: "RapidMiner - Regressão Linear"
+    exercise: "../../data/dc/pl08/fe08pt.pdf"
+    slides: "../../data/dc/pl08/pl08pt.pdf"
+    material: "../../data/dc/pl08/pl08.dataset.csv"
+    english: "../../data/dc/pl08/PL07_Material_EN.rar"
+    topics: "RapidMiner | Regressão Linear"
     
   
    
