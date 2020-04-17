@@ -72,7 +72,14 @@ class:
     english: "../../data/dc/pl08/PL08_Material_EN.rar"
     topics: "RapidMiner | Regressão Linear"
     
-  
+  - code: "PL09"
+    date: "17 Abr 2020"
+    title: "RapidMiner - Árvores de Decisão"
+    exercise: "../../data/dc/pl09/fe09pt.pdf"
+    slides: "../../data/dc/pl09/pl09pt.pdf"
+    material: "../../data/dc/pl09/PL09_Material.zip"
+    english: "../../data/dc/pl09/PL09_Material_EN.rar"
+    topics: "RapidMiner | Classificação | Árvores de Decisão"
    
 
 
